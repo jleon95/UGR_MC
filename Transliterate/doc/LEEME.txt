@@ -1,0 +1,5 @@
+Compilar con make.
+El ejecutable se encuentra en /bin.
+El archivo de Lex se encuentra en /lex.
+En /input hay varios archivos para comprobar el funcionamiento del programa.
+En /sample_output hay varias muestras de la salida del programa.
