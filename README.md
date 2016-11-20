@@ -1,1 +1,3 @@
-Mi proyecto friki de prácticas con Lex para la asignatura Modelos de Computación.
+# Models of Computation
+
+A free choice project using regular expressions and C.
